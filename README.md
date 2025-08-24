@@ -1,7 +1,9 @@
 🛡️ Insurance Claim Blockchain System
+
 A blockchain-based system for transparent, secure, and tamper-proof insurance claim management.
 
 📌 Overview
+
 The Insurance Claim Blockchain project leverages blockchain technology to manage and verify insurance claims in a secure, transparent, and immutable manner.
 Traditional insurance claim systems face challenges like:
 
@@ -40,4 +42,5 @@ This project addresses these issues by storing claim records on a blockchain, en
 - Regulatory Compliance – Aligning with insurance standards and government regulations.
 
 📝 Conclusion
+
 This project demonstrates how blockchain can revolutionize the insurance industry by making claims processing transparent, tamper-proof, and efficient. By ensuring data integrity and automating workflows, the system builds trust between patients, hospitals, and insurers while significantly reducing fraud and delays.
